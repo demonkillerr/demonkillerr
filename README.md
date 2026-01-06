@@ -1,9 +1,15 @@
-## Hi there 👋 Welcome to my profile.
+# Gaurang Vishwakarma
 
-I am Gaurang. I am experienced in C, C++, Python, & JS. Currently learning OpenMP and MPI.  
-  <br><br>
-  [![GitHub Streak Dark](https://streak-stats.demolab.com?user=demonkillerr&theme=radical)](https://git.io/streak-stats)
+## 👋 About Me
+I'm a passionate software developer with experience in C, C++, Python, and JavaScript.
 
+I am looking for a software engineering job urgently and available immediately. Please HIRE ME. Visit my [website](https://demonkiller.co.uk) to learn more about me. I am good person, and I like to code.
+
+## 🚀 Skills
+- **Languages**: C, C++, Python, JavaScript
+
+## 📫 Contact
+Feel free to reach out for collaborations or discussions! All ways to contact me are on my [website](https://demonkiller.co.uk).
 
 <!--
 **demonkillerr/demonkillerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
