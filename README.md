@@ -2,7 +2,7 @@
 
 My name is Gaurang and I'm a passionate software developer with experience in C, C++, Python, and JavaScript.
 
-I am looking for a software engineering job urgently and available immediately. Please HIRE ME. Visit my [website](https://demonkiller.co.uk) to learn more about me. I am good person, and I like to code.
+I am looking for a software engineering job urgently and available immediately. Please HIRE ME. Visit my [website](https://demonkiller.co.uk) to learn more about me. I am good person, and I like to code. I am educated with a bachelors and masters degree.
 
 ## 🚀 Skills
 - **Languages**: C, C++, Python, JavaScript
