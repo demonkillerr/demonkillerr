@@ -2,13 +2,13 @@
 
 My name is Gaurang and I'm a passionate software developer with experience in C, C++, Python, and JavaScript.
 
-I am looking for a software engineering job urgently and available immediately. Please HIRE ME. Visit my [website](https://demonkiller.co.uk) to learn more about me. I am good person, and I like to code. I am educated with a bachelors and masters degree.
+I am looking for a software engineering job urgently and available immediately. Please HIRE ME. Visit my [website](https://gaurang.co.uk) to learn more about me. I am good person, and I like to code. I am educated with a bachelors and masters degree.
 
 ## 🚀 Skills
 - **Languages**: C, C++, Python, JavaScript
 
 ## 📫 Contact
-Feel free to reach out for collaborations or discussions! All ways to contact me are on my [website](https://demonkiller.co.uk).
+Feel free to reach out for collaborations or discussions! All ways to contact me are on my [website](https://gaurang.co.uk).
 
 <!--
 **demonkillerr/demonkillerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
