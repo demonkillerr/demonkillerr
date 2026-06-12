@@ -1,6 +1,6 @@
 # 👋 Hello People
 
-My name is Gaurang and I'm a passionate software developer with experience in C, C++, Python, and JavaScript.
+My name is Gaurang and I'm a Red Hat Certified System Administrator, with over 5+ years of open source work experience with Linux Distributions.
 
 I am looking for a software engineering job urgently and available immediately. Please HIRE ME. Visit my [website](https://gaurang.co.uk) to learn more about me. I am good person, and I like to code. I am educated with a bachelors and masters degree.
 
