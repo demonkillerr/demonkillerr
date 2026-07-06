@@ -1,6 +1,6 @@
 # 👋 Hello People
 
-My name is Gaurang and I'm a Red Hat Certified System Administrator, with over 5+ years of open source work experience with Linux Distributions. I work as a HPC Systems Administrator for Northeartern University.
+My name is Gaurang and I'm a Red Hat Certified System Administrator, with over 5+ years of open source work experience with Linux Distributions. I work as a HPC Systems Administrator for Northeastern University.
 
 ## 📫 Contact
 Feel free to reach out for collaborations or discussions! All ways to contact me are on my [website](https://gaurang.co.uk).
