@@ -1,15 +1,6 @@
 # 👋 Hello People
 
-My name is Gaurang and I'm a Red Hat Certified System Administrator, with over 5+ years of open source work experience with Linux Distributions.
-
-I am looking for a software engineering job urgently and available immediately. Please HIRE ME. Visit my [website](https://gaurang.co.uk) to learn more about me. I am good person, and I like to code. I am educated with a bachelors and masters degree.
-
-## 🚀 Skills
-- **Languages**: C, C++, Python
-- **Operating Systems**: Red Hat Enterprise Linux 9, Ubuntu, Arch Linux, Base Command Manager
-- **Linux System Administration**: systemd, SELinux, Firewalls, LVM & Partitioning (EFI/GPT, BIOS/MBR), GRUB, Kernel Modules
-- **Containers & Tooling**: Podman, Singularity, Docker, Kubernetes
-- **High Performance Computing**: Slurm, Lmod, MPI/OpenMP 
+My name is Gaurang and I'm a Red Hat Certified System Administrator, with over 5+ years of open source work experience with Linux Distributions. I work as a HPC Systems Administrator for Northeartern University.
 
 ## 📫 Contact
 Feel free to reach out for collaborations or discussions! All ways to contact me are on my [website](https://gaurang.co.uk).
