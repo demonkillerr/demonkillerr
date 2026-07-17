@@ -1,6 +1,11 @@
-# 👋 Hello People
+# 👋 Hello :) Welcome to Gaurang's Personal Github Account
 
-My name is Gaurang and I'm a Red Hat Certified System Administrator, with over 5+ years of open source work experience with Linux Distributions. I work as a HPC Systems Administrator for Northeastern University.
+My name is Gaurang and I'm a Red Hat Certified System Administrator, with over 5+ years of open source work experience with Linux Distributions. I work as a HPC Systems Administrator for Northeastern University. I am part of the Research Computing team.
+
+### Important Links
+If you are looking for ALG repositories, they can be found [here](https://github.com/arch-linux-gui).
+All public work Northeastern's Research Computing can be found [here](https://github.com/northeastern-rc).
+
 
 ## 📫 Contact
 Feel free to reach out for collaborations or discussions! All ways to contact me are on my [website](https://gaurang.co.uk).
